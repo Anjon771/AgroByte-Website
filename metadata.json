@@ -1,0 +1,8 @@
+{
+  "name": "AgroByte",
+  "description": "A Global Agri-Social Platform with Marketplace & Learning",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
